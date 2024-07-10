@@ -166,11 +166,13 @@ marquee {
 }
 
 .content section p {
+    text-align: center;
     width: 100%;
     color: goldenrod;
 }
 
 p2 {
+    text-align: center;
     background-color: none;
     color: azure;
     display: block;
@@ -184,8 +186,9 @@ p2 {
 }
 
 p2 a {
+    text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    text-decoration: none;
+    text-decoration: underline;
     background-color: blue;
     padding: 10px;
     color: wheat;
