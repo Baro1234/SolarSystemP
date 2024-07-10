@@ -196,5 +196,6 @@ p2 a {
 
 h2 {
     text-align: center;
+    text-decoration: underline;
     color: blue;
 }
